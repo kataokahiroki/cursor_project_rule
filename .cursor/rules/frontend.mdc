@@ -1,0 +1,16 @@
+---
+description: UI設計、状態管理、アクセシビリティ、CSS方針が必要なときに使う。
+alwaysApply: true
+---
+# Overview
+- 主要ボタンに aria-label を付与する
+- 色は #ffffff と #1f2937 のみ
+- フォントは system-ui のみ
+- レイアウトは最大幅640px、中央寄せ、余白は8px単位
+- ボタンは角丸8px、枠線1px、背景は #1f2937、文字色は #ffffff
+- ディレクトリ構造は `src/ui/` と `src/logic/` を必須
+- `main.ts` は state / constants / dom / render / handlers / init の順に並べる
+- 各セクションの先頭にコメントを入れる
+- `type State` を必須、`any` は使わない
+- ページ背景は #fff7ed にする
+- 主要ボタンの背景色は #ea580c にする

@@ -1,0 +1,9 @@
+---
+description: 全体共通のルール。命名規則、禁止事項、出力形式が必要なときに使う。
+alwaysApply: true
+---
+# Overview
+- 変数名と関数名は camelCase
+- CSSクラス名は kebab-case
+- 1ファイル200行を超えない
+- console.log は最小限にする
