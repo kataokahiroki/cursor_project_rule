@@ -1,4 +1,4 @@
-# How to use project rules (for cursors)
+# How to use AI agent project rules (for cursors)
 
 AIエージェントのプロジェクトルール体験シナリオ【Cursor編】
 
